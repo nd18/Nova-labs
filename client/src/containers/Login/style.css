@@ -1,0 +1,15 @@
+.login-page-header {
+    color: rgba(0,0,0,.85);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 0;
+    margin-right: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.login-header-wrapper {
+    text-align: center;
+}
